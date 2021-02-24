@@ -1,7 +1,7 @@
 # JarCompare Notes
 
 ## What is JarCompare?
-JarCompare is a tool to compare 2 directories with JAR file content. This will analyze and list down the changed JAR files for their source / binarary compatibility. Additionally it will also list down the newly added and removed JAR(s). This tool internally uses https://lvc.github.io/japi-compliance-checker/ 
+JarCompare is a tool to compare 2 directories with JAR file content. This will analyze and list down the changed JAR files for their source / binary compatibility. Additionally it will also list down the newly added and removed JAR(s). This tool internally uses https://lvc.github.io/japi-compliance-checker/ 
 
 ## How to build the image
 Go to DockerFile directory and type
