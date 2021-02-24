@@ -9,7 +9,9 @@ Go to DockerFile directory and type
 - Create the workspace directory.
 - Copy the directories which needs to be compared to workspace directory.
 - Create a config.properties file in workspace directory and add the following properties
+
     v1.path=/workspace/compare/SP1/Client
+    
     v2.path=/workspace/compare/SP2/Client
 
 Once done, you can run the container as follows. 
