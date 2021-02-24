@@ -21,4 +21,4 @@ In here for C:\workspace please change with your respective workspace folder pat
     docker run -v C:\workspace:/workspace org.jarcompare
     
 ## License
-This program is free software. You may use, redistribute and/or modify it under the terms of https://github.com/nilindra/JarCompare/blob/main/LICENSE
+This program is free software. You may use, redistribute and/or modify it under the terms of [LICENSE](LICENSE).
