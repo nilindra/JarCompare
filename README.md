@@ -34,7 +34,7 @@ Instead of building this locally you can pull this docker image directly from Do
 
 ## Special Notes
   - Response times could be further improved with parallelizing the process.
-  - Any improvements / suggestions are well some to nilindra_99 at yahoo dot com.
+  - Any improvements / suggestions are well come to nilindra_99 at yahoo dot com.
   
 ## License
 This program is free software. You may use, redistribute and/or modify it under the terms of [LICENSE](LICENSE).
