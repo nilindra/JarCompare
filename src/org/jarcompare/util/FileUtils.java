@@ -95,7 +95,6 @@ public class FileUtils {
             }
         } catch (Exception e) {
             e.printStackTrace();
-            ;
         } finally {
             if (pr != null) {
                 try {
@@ -115,7 +114,6 @@ public class FileUtils {
                 } catch (Exception x) {
                 }
             }
-            ;
         }
     }
 }
